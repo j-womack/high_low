@@ -63,4 +63,6 @@ do {
     } while ($guess != $random);
 } while ($restart == true);
 
+echo "See ya" . PHP_EOL;
+
 ?>
